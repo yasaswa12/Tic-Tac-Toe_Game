@@ -13,9 +13,9 @@ This project is a web-based Tic-Tac-Toe game created using HTML, CSS, and JavaSc
 - JavaScript  
 
 ## Screenshots
-![Game Start](./Tic_main.png)
-![Game Play](./middel.png)
-![Winner Screen](./Tic_win.png)
+![Game Start](./images/Tic_main.png)
+![Game Play](./images/middel.png)
+![Winner Screen](./images/Tic_win.png)
 
 ## How to Run
 Open `index.html` in any modern web browser to start playing.
